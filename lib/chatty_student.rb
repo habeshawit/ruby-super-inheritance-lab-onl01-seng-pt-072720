@@ -1,6 +1,6 @@
 require "student.rb"
 
-class chatty_student < student 
+class Chatty_student < Student 
   
   def hello 
     super
